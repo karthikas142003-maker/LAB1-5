@@ -67,6 +67,36 @@ https://github.com/karthikas142003-maker/LAB1-5/blob/main/stringoperationdemo.pn
 sublistcolors-o/plink
 https://github.com/karthikas142003-maker/LAB1-5/blob/main/sublistcolors.png
 
+lab4p1-o/plink
+https://github.com/karthikas142003-maker/LAB1-5/blob/main/lab4p1.png
+
+lab4p2-o/plink
+https://github.com/karthikas142003-maker/LAB1-5/blob/main/lab4p2.png
+
+lab4p3-o/plink
+https://github.com/karthikas142003-maker/LAB1-5/blob/main/lab4p3.png
+
+lab5p1-o/plink
+https://github.com/karthikas142003-maker/LAB1-5/blob/main/lab5p1.png
+
+lab5p2-o/plink
+https://github.com/karthikas142003-maker/LAB1-5/blob/main/lab5p2.png
+
+lab5p3-o/plink
+https://github.com/karthikas142003-maker/LAB1-5/blob/main/lab5p3.png
+
+lab5p4-o/plink
+https://github.com/karthikas142003-maker/LAB1-5/blob/main/lab5p4.png
+
+
+
+
+
+
+
+
+
+
 
 
 
